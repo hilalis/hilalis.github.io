@@ -1,4 +1,4 @@
 ## Welcome to My site!
-![Image](hilalis/hilalis.github.io/hilalis-design.png)
+![Image](hilalis_design.png)
 #  You can contact me on this e-mail adress: 
-[Link](mailto:postakiraz@outlook.com)
+[Go to my email!](mailto:postakiraz@outlook.com)
